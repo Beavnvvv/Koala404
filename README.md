@@ -16,5 +16,5 @@ https://github.com/Bachamht
 https://github.com/Beavnvvv
 ## 项目链接
 * CodeLink:https://github.com/Bachamht/Koala404
-* ppt:
+* ppt:https://github.com/Bachamht/Koala404/blob/main/Koala_404.pptx
 
